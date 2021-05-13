@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA24F398-F9B1-4958-9549-DAA063B315CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94A56F2B-6B50-48B9-8CD0-0F558DE71DFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PupilFiles/EditViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "saveButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DA6BA01-02FC-44DD-BE3D-10EEDAB65AB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PupilFiles/EditViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "saveButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CD48144-6905-464C-A376-88C4F3623105"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PupilFiles/EditViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "checkLanguage(textField:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA1CB50B-D376-4448-BCC9-951621B9241F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PupilFiles/Controller/EditViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "EditViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CA1CB50B-D376-4448-BCC9-951621B9241F - 755eac5af2b64e84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PupilFiles.EditViewController.surname.getter : Swift.String"
+                  moduleName = "PupilFiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenakim/Desktop/PupilFiles/PupilFiles/Controller/EditViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "CA1CB50B-D376-4448-BCC9-951621B9241F - 446287f49baf5ef8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PupilFiles.EditViewController.surname.setter : Swift.String"
+                  moduleName = "PupilFiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenakim/Desktop/PupilFiles/PupilFiles/Controller/EditViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "CA1CB50B-D376-4448-BCC9-951621B9241F - 780d0edd908734b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PupilFiles.EditViewController.surname.modify : Swift.String"
+                  moduleName = "PupilFiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenakim/Desktop/PupilFiles/PupilFiles/Controller/EditViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "CA1CB50B-D376-4448-BCC9-951621B9241F - a4ae1c1d8f5f54f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PupilFiles.EditViewController.surname.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PupilFiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenakim/Desktop/PupilFiles/PupilFiles/Controller/EditViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "CA1CB50B-D376-4448-BCC9-951621B9241F - 76554edba9c74169"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PupilFiles.EditViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PupilFiles.EditViewController"
+                  moduleName = "PupilFiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenakim/Desktop/PupilFiles/PupilFiles/Controller/EditViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "CA1CB50B-D376-4448-BCC9-951621B9241F - 988f29cc6144bba5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PupilFiles.EditViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PupilFiles.EditViewController&gt;"
+                  moduleName = "PupilFiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenakim/Desktop/PupilFiles/PupilFiles/Controller/EditViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "398">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
